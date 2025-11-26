@@ -8,15 +8,11 @@ The purpose of this project is to understand how women participate in STEM and h
 3. Which STEM fields are most popular among women?
 4. How does the gender gap differ across countries?
 
----
-
 ## 🛠 Tools Used
 - Power BI
 - Excel
 - Python (optional)
 - GitHub
-
----
 
 ## 📬 Contact
 **Ifan Fadilah**  
