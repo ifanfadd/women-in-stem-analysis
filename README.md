@@ -1,5 +1,5 @@
 # Women in STEM Analysis
-![Image](https://github.com/user-attachments/assets/b3abecfc-305a-4f1b-8984-bf54b819f21d)
+<img width="1299" height="735" alt="Image" src="https://github.com/user-attachments/assets/6891e833-4c81-4ef7-8286-568f59cb0852" />
 
 ## 📌 Project Overview
 The purpose of this project is to understand how women participate in STEM and how these patterns change across countries and fields. Key questions include:
