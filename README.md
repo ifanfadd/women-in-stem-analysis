@@ -11,8 +11,7 @@ The purpose of this project is to understand how women participate in STEM and h
 ## 🛠 Tools Used
 - Power BI
 - Excel
-- Python (optional)
-- GitHub
+- Canva
 
 ## 📬 Contact
 **Ifan Fadilah**  
